@@ -1,5 +1,5 @@
 
-# Local Llama-Powered Conversational AI Assistant 🤖
+# Llama-Powered Conversational AI Assistant 🤖
 
 ## About the Project
 A conversational AI assistant powered by a locally
